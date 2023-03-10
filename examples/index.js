@@ -41,6 +41,10 @@ const choices = [
     value: 'chart',
   },
   {
+    name: '图表测试',
+    value: 'customChart',
+  },
+  {
     name: 'Animation of video clips',
     value: 'video',
   },
